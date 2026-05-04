@@ -1,0 +1,53 @@
+{
+  "id": "forest-ink",
+  "label": "🌲 森林墨",
+  "description": "深森林绿 + 象牙，沉稳、有呼吸感。自然/可持续/文化/非虚构内容、户外品牌、环保主题。",
+  "mood": "旧版《国家地理》",
+  "recommend": "内容 / 行业观察 / 文化",
+  "colors": {
+    "background": "#F5F1E8",
+    "text": "#1A2E1F",
+    "primary": "#1A2E1F",
+    "accent1": "#253D2C",
+    "accent2": "#ECE7DA"
+  },
+  "typography": {
+    "heading": {
+      "fontFace": "Cambria",
+      "fontSize": 36,
+      "bold": true
+    },
+    "subheading": {
+      "fontFace": "Calibri",
+      "fontSize": 28
+    },
+    "body": {
+      "fontFace": "Calibri",
+      "fontSize": 24
+    },
+    "bodyDense": {
+      "fontFace": "Calibri",
+      "fontSize": 20
+    },
+    "kicker": {
+      "fontFace": "Calibri",
+      "fontSize": 18,
+      "bold": true,
+      "allCaps": true
+    },
+    "meta": {
+      "fontFace": "Calibri",
+      "fontSize": 14
+    },
+    "minBodyFontSize": 18
+  },
+  "spacing": {
+    "lineHeight": 1.4,
+    "groupInner": 0.25,
+    "groupOuter": 0.6
+  },
+  "rules": {
+    "minContrastRatio": 4.5,
+    "maxFontSize": 72
+  }
+}

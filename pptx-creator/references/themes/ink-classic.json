@@ -1,0 +1,57 @@
+{
+  "id": "ink-classic",
+  "label": "✒️ 墨水经典",
+  "description": "纯墨黑 + 暖米白，杂志感最强。通用分享、商业发布、科技产品、任何场景都安全的默认选择。",
+  "mood": "Monocle / A Book Apart 杂志风",
+  "recommend": "不知道选啥 / 第一次用",
+  "colors": {
+    "background": "#F1EFEA",
+    "text": "#0A0A0B",
+    "primary": "#0A0A0B",
+    "accent1": "#18181A",
+    "accent2": "#E8E5DE"
+  },
+  "typography": {
+    "heading": {
+      "fontFace": "Times New Roman",
+      "fontSize": 36,
+      "bold": true
+    },
+    "subheading": {
+      "fontFace": "Arial",
+      "fontSize": 28
+    },
+    "body": {
+      "fontFace": "Arial",
+      "fontSize": 24
+    },
+    "bodyDense": {
+      "fontFace": "Arial",
+      "fontSize": 20
+    },
+    "kicker": {
+      "fontFace": "Arial",
+      "fontSize": 18,
+      "bold": true,
+      "allCaps": true
+    },
+    "meta": {
+      "fontFace": "Arial",
+      "fontSize": 14
+    },
+    "minBodyFontSize": 18
+  },
+  "spacing": {
+    "lineHeight": 1.4,
+    "groupInner": 0.25,
+    "groupOuter": 0.6
+  },
+  "rules": {
+    "minContrastRatio": 4.5,
+    "maxFontSize": 72
+  },
+  "geometry": {
+    "title": { "x": 0.5, "y": 0.25, "w": 9, "h": 0.75 },
+    "content": { "x": 0.5, "y": 1.1, "w": 9, "h": 5.5 }
+  }
+}

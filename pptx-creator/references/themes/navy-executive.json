@@ -1,0 +1,53 @@
+{
+  "id": "navy-executive",
+  "label": "🔷 深蓝企标",
+  "description": "深海军蓝封面 + 钴蓝主色 + 浅青点缀。模板直系继承，企业正式场合、技术汇报、商务提案首选。",
+  "mood": "深蓝渐变封面 / 企业级技术演示",
+  "recommend": "企业正式场合 / 技术汇报 / 需要与现有模板视觉一致",
+  "colors": {
+    "background": "#FFFFFF",
+    "text": "#002060",
+    "primary": "#002060",
+    "accent1": "#0070C0",
+    "accent2": "#E4EEF7"
+  },
+  "typography": {
+    "heading": {
+      "fontFace": "Times New Roman",
+      "fontSize": 36,
+      "bold": true
+    },
+    "subheading": {
+      "fontFace": "Arial",
+      "fontSize": 28
+    },
+    "body": {
+      "fontFace": "Arial",
+      "fontSize": 18
+    },
+    "bodyDense": {
+      "fontFace": "Arial",
+      "fontSize": 18
+    },
+    "kicker": {
+      "fontFace": "Arial",
+      "fontSize": 18,
+      "bold": true,
+      "allCaps": true
+    },
+    "meta": {
+      "fontFace": "Arial",
+      "fontSize": 14
+    },
+    "minBodyFontSize": 18
+  },
+  "spacing": {
+    "lineHeight": 1.4,
+    "groupInner": 0.25,
+    "groupOuter": 0.6
+  },
+  "rules": {
+    "minContrastRatio": 4.5,
+    "maxFontSize": 72
+  }
+}

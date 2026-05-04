@@ -1,0 +1,9 @@
+~*
+
+.venv/
+.vscode/
+.qwen/
+
+pptx-creator/node_modules/
+
+presentation.json

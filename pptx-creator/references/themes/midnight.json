@@ -1,0 +1,53 @@
+{
+  "id": "midnight",
+  "label": "🌃 午夜",
+  "description": "深黑底 + 亮灰字，暗黑风格。技术演讲、开源项目、深夜编码氛围。",
+  "mood": "IDE dark mode / GitHub dark",
+  "recommend": "技术演讲 / 开源项目 / 深夜编码",
+  "colors": {
+    "background": "#0D1117",
+    "text": "#E6EDF3",
+    "primary": "#E6EDF3",
+    "accent1": "#7D8590",
+    "accent2": "#161B22"
+  },
+  "typography": {
+    "heading": {
+      "fontFace": "Helvetica",
+      "fontSize": 36,
+      "bold": true
+    },
+    "subheading": {
+      "fontFace": "Consolas",
+      "fontSize": 28
+    },
+    "body": {
+      "fontFace": "Consolas",
+      "fontSize": 24
+    },
+    "bodyDense": {
+      "fontFace": "Consolas",
+      "fontSize": 20
+    },
+    "kicker": {
+      "fontFace": "Helvetica",
+      "fontSize": 18,
+      "bold": true,
+      "allCaps": true
+    },
+    "meta": {
+      "fontFace": "Consolas",
+      "fontSize": 14
+    },
+    "minBodyFontSize": 18
+  },
+  "spacing": {
+    "lineHeight": 1.4,
+    "groupInner": 0.25,
+    "groupOuter": 0.6
+  },
+  "rules": {
+    "minContrastRatio": 4.5,
+    "maxFontSize": 72
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "dune",
+  "label": "🏜️ 沙丘",
+  "description": "炭灰 + 沙色，克制、高级、中性。艺术/设计/创意/时尚分享、画廊手册、审美优先的私享会。",
+  "mood": "沙漠黄昏 / 建筑设计图册",
+  "recommend": "设计 / 艺术 / 品牌",
+  "colors": {
+    "background": "#F0E6D2",
+    "text": "#1F1A14",
+    "primary": "#1F1A14",
+    "accent1": "#2D2620",
+    "accent2": "#E3D7BF"
+  },
+  "typography": {
+    "heading": {
+      "fontFace": "Garamond",
+      "fontSize": 36,
+      "bold": true
+    },
+    "subheading": {
+      "fontFace": "Verdana",
+      "fontSize": 28
+    },
+    "body": {
+      "fontFace": "Verdana",
+      "fontSize": 24
+    },
+    "bodyDense": {
+      "fontFace": "Verdana",
+      "fontSize": 20
+    },
+    "kicker": {
+      "fontFace": "Verdana",
+      "fontSize": 18,
+      "bold": true,
+      "allCaps": true
+    },
+    "meta": {
+      "fontFace": "Verdana",
+      "fontSize": 14
+    },
+    "minBodyFontSize": 18
+  },
+  "spacing": {
+    "lineHeight": 1.4,
+    "groupInner": 0.25,
+    "groupOuter": 0.6
+  },
+  "rules": {
+    "minContrastRatio": 4.5,
+    "maxFontSize": 72
+  }
+}
