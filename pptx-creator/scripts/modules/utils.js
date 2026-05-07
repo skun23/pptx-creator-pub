@@ -20,11 +20,11 @@ const DEFAULT_THEME = {
   "typography": {
     "heading": { "fontFace": "Arial", "fontSize": 36, "bold": true },
     "subheading": { "fontFace": "Arial", "fontSize": 28 },
-    "body": { "fontFace": "Arial", "fontSize": 24 },
-    "bodyDense": { "fontFace": "Arial", "fontSize": 20 },
+    "body": { "fontFace": "Arial", "fontSize": 18 },
+    "bodyDense": { "fontFace": "Arial", "fontSize": 18 },
     "kicker": { "fontFace": "Arial", "fontSize": 18, "bold": true, "allCaps": true },
     "meta": { "fontFace": "Arial", "fontSize": 14 },
-    "minBodyFontSize": 24
+    "minBodyFontSize": 18
   },
   "spacing": {
     "lineHeight": 1.4,
@@ -33,7 +33,7 @@ const DEFAULT_THEME = {
   },
   "rules": {
     "minContrastRatio": 4.5,
-    "maxFontSize": 72
+    "maxFontSize": 36
   }
 };
 

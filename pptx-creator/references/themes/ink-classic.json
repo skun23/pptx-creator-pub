@@ -14,7 +14,7 @@
   "typography": {
     "heading": {
       "fontFace": "Times New Roman",
-      "fontSize": 36,
+      "fontSize": 32,
       "bold": true
     },
     "subheading": {
@@ -23,11 +23,11 @@
     },
     "body": {
       "fontFace": "Arial",
-      "fontSize": 24
+      "fontSize": 18
     },
     "bodyDense": {
       "fontFace": "Arial",
-      "fontSize": 20
+      "fontSize": 18
     },
     "kicker": {
       "fontFace": "Arial",
@@ -48,7 +48,7 @@
   },
   "rules": {
     "minContrastRatio": 4.5,
-    "maxFontSize": 72
+    "maxFontSize": 36
   },
   "geometry": {
     "title": { "x": 0.5, "y": 0.25, "w": 9, "h": 0.75 },

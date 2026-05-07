@@ -14,7 +14,7 @@
   "typography": {
     "heading": {
       "fontFace": "Georgia",
-      "fontSize": 36,
+      "fontSize": 32,
       "bold": true
     },
     "subheading": {
@@ -23,11 +23,11 @@
     },
     "body": {
       "fontFace": "Tahoma",
-      "fontSize": 24
+      "fontSize": 18
     },
     "bodyDense": {
       "fontFace": "Tahoma",
-      "fontSize": 20
+      "fontSize": 18
     },
     "kicker": {
       "fontFace": "Tahoma",
@@ -48,6 +48,6 @@
   },
   "rules": {
     "minContrastRatio": 4.5,
-    "maxFontSize": 72
+    "maxFontSize": 36
   }
 }
