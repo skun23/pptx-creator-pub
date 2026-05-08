@@ -12,6 +12,7 @@ const REQUIRED_FIELDS = {
     "title": ["title"],
     "content": ["title"],
     "two-column": ["title"],
+    "table": ["title", "content"],
     "quote": ["text"],
     "big-number-grid": ["title", "stats"],
     "comparison": ["title", "left", "right"],

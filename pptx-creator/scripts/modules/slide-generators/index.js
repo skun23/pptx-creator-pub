@@ -9,7 +9,8 @@ const createComparisonSlide = require('./comparison');
 const createPipelineSlide = require('./pipeline');
 const createImageGridSlide = require('./image-grid');
 const createMinimalQuoteSlide = require('./minimal-quote');
-const createChartSlide = require('./chart'); // New chart slide generator
+const createChartSlide = require('./chart');
+const createTableSlide = require('./table');
 
 const slideGenerators = {
   "hero-cover": createHeroCoverSlide,
@@ -23,7 +24,8 @@ const slideGenerators = {
   "pipeline": createPipelineSlide,
   "image-grid": createImageGridSlide,
   "minimal-quote": createMinimalQuoteSlide,
-  "chart": createChartSlide, // Add chart slide
+  "chart": createChartSlide,
+  "table": createTableSlide,
 };
 
 module.exports = slideGenerators;

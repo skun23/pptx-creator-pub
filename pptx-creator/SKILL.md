@@ -137,12 +137,14 @@ description: "Creates modern, well-structured PPTX presentations from a simple J
 | `content` | 标题 + 要点列表 | `title`, `bullets[]` |
 | `two-column` | 左右分栏（文字/图片） | `title`, `left`, `right` |
 | `comparison` | 两组对比（Before/After） | `title`, `left`, `right` |
+| `table` | 标题 + Markdown 表格 | `title`, `content` |
 
 - `content.layout`: `standard`（默认）、`dense`、`minimal`
 - `two-column.layout`: `equal`（默认）、`text-dominant`、`image-dominant`
 - `two-column.left`: `{ title?, bullets[] }`
-- `two-column.right`: `{ image }` 或 `{ title?, bullets[] }`
+- `two-column.right`: `{ image }` 或 `{ title?, bullets[], text }`
 - `comparison.left/right`: `{ label, items[] }`
+- `table.content`: Markdown 表格字符串，行用 `\n`，列用 `|`，与"Markdown 表格与换行"规则一致
 
 ### 数据与指标
 
